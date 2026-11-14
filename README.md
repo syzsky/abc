@@ -1,24 +1,57 @@
+#  📺 央视频
+
+https://8w97qbaxj0.apps.bot-hosting.cloud
+
+https://n242qtzpk9.apps.bot-hosting.cloud
+
+https://jo2vip84bj.apps.bot-hosting.cloud
+
+
+# ⚽️🏆 体育赛事｜看球通知
+
+🔥 你1波，我1波！
+
+体育赛事直播内容已更新，喜欢看球的朋友可以使用下面的体育赛事专用订阅。
+
+📺 体育赛事 TXT订阅：
+
+https://xymm.tv12.xyz/live.txt=你的授权码
+
+📺 体育赛事 M3U订阅：
+
+https://xymm.tv12.xyz/live.m3u=你的授权码
+
+# 例如：https://xymm.tv12.xyz/live.txt=123456
+
+
+🔑 授权码领取：
+
+http://45.192.97.170:5222/2
+
+⚠️ 特别说明：
+
+🔸 上面的「授权码领取」链接，只是用于领取/获取授权码。
+
+🔸 授权码领取页面里的内容，与本次体育赛事看球内容不是同一个订阅。
+
+🔸 体育赛事看球请使用上面的 TXT / M3U 体育赛事订阅地址。
+
+🔸 以前已经领取过授权码的老用户，无需重新领取，原授权码继续有效，直接替换新的订阅地址即可。
+
+
+## ~~TXT 和 M3U取消变量值访问~~  修改时间：0903  22:30
+## Mitv保留变量值：/xymm 访问显示Forbidden或者其他提示 因链接后缀需要添加变量 示例访问链接：https://域名/xymm
+### 注：TXT和M3U需重新部署脚本，访问域名即可
+
+
+
+
+## 聚合搜索 免workers部署 ， 小白测试链接： https://9810.ccwu.cc
+
+
 ## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
------------------
-## 不同文件夹JS访问：变量值说明
-【TXT M3U 同一个变量值】，
-【mitv  独立变量值】，
-【合集  自定义变量值,仅OK影视APP使用】，
-【聚合搜索 （无需变量值）部署后访问worker域名即可】
-## 不同文件夹 'JS' 脚本部署后访问格式
-例如：https://域名/变量值
-示例：绑定的域名是 '123.com'  变量值是'abc123'
-访问地址是：https://123.com/abc123
------------------
-## Mitv 原代码库升级（无需重新部署），变量值已更换，最新变量值公众号获取，建议使用DIYP ku9 OK影视等等能自动刷新接口的软件
-
-## 聚合搜索 脚本升级 优化搜索速度  0516  0:25
-
------------------
-## 合集升级为可自定义设定变量 更新时间 05/12  12:35
-
+## 交流社区：http://45.192.97.170:8103
 ## 0507 11:40 合集 安卓设备 OK壳专用订阅，其他软件用不了
-## JS代码复制后：在worker代码编辑时键盘按下快捷键 ctrl+v  进行快速粘贴
 安卓设备OK壳下载：
 ## TV版（横版）
 
@@ -30,19 +63,11 @@
 
 [点击下载 手机版](https://www.mpimg.cn/down.php/133b58548d55398dc5522dc06b1579f6.apk&8520)
 
-## TXT M3U   变量值公众号文章留言评论区自行查看获取
+安卓极致播放器下载：
+## 极致TV版（横版）
 
-
-🔄 为什么要定期更换？
-
-主要有以下几个原因：
-
-1️⃣ 防止资源被倒卖牟利
-如果链接长期固定，很容易被他人打包、二次售卖，甚至变成收费资源。
-
-2️⃣ 避免被恶意滥用或封禁
-固定链接一旦被大量传播或刷流量，很容易触发限制，导致全部用户无法使用。
-
+[点击下载 TV版](https://tv1288.xyz/极致.apk)
+---
 
 针对不同类型壳子订阅使用的格式，提供两种格式部署脚本
 ## TXT订阅格式请部署`TXT`
@@ -50,10 +75,6 @@
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/10.jpg)
 ![图片2](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/11.jpg)
 ![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/12.jpg)
-# Cloudflare Worker 部署
-## Cloudflare注册地址 https://dash.cloudflare.com
-
-复制代码文件：`worker.js` 在Cloudflare 创建`Worker` 链接数据库自动更新订阅资源
 
 ---
 
@@ -131,6 +152,9 @@ https://xxxx.workers.dev
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/04331.png)
 
 ## 注册到托管视频教程 https://www.youtube.com/watch?v=7xi8Yh9csGo
+## 云服务器推荐 [点击查看](https://prolxy.com/?i4b51d8)
+公网流量
+可用流量： 无限流量
 
 
 # 版权说明
